@@ -61,7 +61,7 @@ export const projects = [
 
 export const experience = [
   {
-    period: "2024 — Now",
+    period: "Now",
     title: "Founder & CEO",
     org: "Vizion Forge",
     detail:
@@ -83,7 +83,7 @@ export const experience = [
       "First engineering hire. Built the core API and the internal design system that three product teams still ship on.",
   },
   {
-    period: "2015-2026",
+    period: "2025-2026",
     title: "Independent developer",
     org: "Freelance & open source",
     detail:
