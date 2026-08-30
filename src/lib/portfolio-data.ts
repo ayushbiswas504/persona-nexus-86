@@ -6,7 +6,7 @@ export const profile = {
   location: "Kolkata, India · Remote",
   email: "ayushbiswas605@gmail.com",
   github: "https://github.com/ayushbiswas504",
-  linkedin: "https://www.linkedin.com/",
+  linkedin: "https://www.linkedin.com/in/ayushbiswas504/",
   githubHandle: "ayushbiswas504",
   resume: "/ayush-biswas-resume.pdf",
 };
