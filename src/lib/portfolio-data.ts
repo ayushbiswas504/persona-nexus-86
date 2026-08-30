@@ -51,7 +51,7 @@ export const projects = [
     title: "smart-attendance-app ",
     status: "Beta",
     summary:
-      "A framework for durable multi-step agents with replayable state, human checkpoints, and per-step cost accounting.",
+      "A platfor for only for students",
     tags: ["Python", "LangGraph", "Redis"],
     metric: "18k runs/day",
   },
