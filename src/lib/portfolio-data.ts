@@ -4,7 +4,7 @@ export const profile = {
   tagline:
     "I build and lead — shipping AI-native products end to end, from model layer to interface.",
   location: "Kolkata, India · Remote",
-  email: "hello@ayushbiswas.dev",
+  email: "ayushbiswas605@gmail.com",
   github: "https://github.com/",
   linkedin: "https://www.linkedin.com/",
   githubHandle: "ayushbiswas",
