@@ -243,6 +243,12 @@ function Portfolio() {
               >
                 {profile.email}
               </a>
+              <a
+                href={`tel:${profile.phoneRaw}`}
+                className="font-mono text-lg transition-colors hover:text-primary"
+              >
+                {profile.phone}
+              </a>
               <div className="flex flex-wrap items-center gap-3">
                 <a
                   href={profile.github}

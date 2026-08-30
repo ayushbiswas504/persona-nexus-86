@@ -5,6 +5,8 @@ export const profile = {
     "I build and lead — shipping AI-native products end to end, from model layer to interface.",
   location: "Kolkata, India · Remote",
   email: "ayushbiswas605@gmail.com",
+  phone: "+91 92421 17876",
+  phoneRaw: "+919242117876",
   github: "https://github.com/ayushbiswas504",
   linkedin: "https://www.linkedin.com/in/ayushbiswas504/",
   githubHandle: "ayushbiswas504",
