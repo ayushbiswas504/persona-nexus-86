@@ -104,7 +104,7 @@ export const skills = [
   },
   {
     group: "Infrastructure",
-    items: ["Postgres", "ClickHouse", "Kubernetes", "Terraform", "Observability"],
+    items: ["Postgresql", "MongoDb", "Kubernetes", "Linux", "Git & GitHub"],
   },
 ];
 
