@@ -61,27 +61,27 @@ export const experience = [
   {
     period: "2024 — Now",
     title: "Founder & CEO",
-    org: "Sentia Labs",
+    org: "Vizion Forge",
     detail:
-      "Founded the company, hired the first nine people, and shipped the v1 platform to paying teams while staying hands-on in the codebase.",
+      "Founded the club under dsw, hired the first nine people, and shipped the v1 platform to paying teams while staying hands-on in the codebase.",
     current: true,
   },
   {
-    period: "2022 — 2024",
-    title: "Senior Software Engineer",
-    org: "Northwind Systems",
+    period: "August 2026-Present",
+    title: "Software Engineer Intern",
+    org: "Decode Labs",
     detail:
       "Led the data platform guild; drove a 3× ingest throughput gain and owned the reliability program end to end.",
   },
   {
-    period: "2021 — 2022",
-    title: "Software Developer",
-    org: "Parallax",
+    period: "August 2026-Present",
+    title: "Software Developer Intern",
+    org: "FlyRank Ai",
     detail:
       "First engineering hire. Built the core API and the internal design system that three product teams still ship on.",
   },
   {
-    period: "2019 — 2021",
+    period: "2015-2026",
     title: "Independent developer",
     org: "Freelance & open source",
     detail:
