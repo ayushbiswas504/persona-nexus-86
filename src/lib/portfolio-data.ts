@@ -116,7 +116,7 @@ export const achievements = [
   },
   {
     value: "9",
-    title: "Engineers hired",
+    title: "People Working with",
     detail: "Built the founding team with zero attrition through the first year.",
   },
   {
