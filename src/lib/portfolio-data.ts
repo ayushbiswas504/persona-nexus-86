@@ -12,16 +12,16 @@ export const profile = {
 };
 
 export const stats = [
-  { label: "Products shipped", value: "12" },
-  { label: "Team led", value: "9" },
-  { label: "Years building", value: "6" },
+  { label: "CO-FOUNDER AND CEO", value: "1" },
+  { label: "Team led", value: "10" },
+  { label: "Years building", value: "2" },
   { label: "OSS stars", value: "3.4k" },
 ];
 
 export const projects = [
   {
     index: "01",
-    title: "Sentia",
+    title: "Campus-Gpt ",
     status: "Live",
     summary:
       "An AI workspace that turns long-form research into cited, structured briefs. I own the retrieval layer and the product surface.",
@@ -30,10 +30,10 @@ export const projects = [
   },
   {
     index: "02",
-    title: "Nimbus Runtime",
+    title: "Event-Ticket-Management-WebApp",
     status: "Open source",
     summary:
-      "A tiny inference runtime for edge devices — sub-100KB, ONNX in, WASM out. Maintained solo with contributors across four countries.",
+      "Smart Event Ticketing & QR Entry Management System For My Club",
     tags: ["Rust", "WASM", "ONNX"],
     metric: "3.4k stars",
   },
@@ -48,7 +48,7 @@ export const projects = [
   },
   {
     index: "04",
-    title: "Loom Agents",
+    title: "smart-attendance-app ",
     status: "Beta",
     summary:
       "A framework for durable multi-step agents with replayable state, human checkpoints, and per-step cost accounting.",
